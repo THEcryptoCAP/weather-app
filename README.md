@@ -1,2 +1,3 @@
-# weather-app
-a js app that fetches weather conditions and temprature information from an api.
+# Weather-app
+
+A Weather tracking web application built using pure Vanilla Javascript.
